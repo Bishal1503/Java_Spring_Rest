@@ -1,0 +1,8 @@
+com\megaproject\UserServiceApplication.class
+com\megaproject\dto\UserRequest.class
+com\megaproject\service\UserService.class
+com\megaproject\repository\UserRepository.class
+com\megaproject\controller\UserController.class
+com\megaproject\entity\User.class
+com\megaproject\config\SwaggerConfig.class
+com\megaproject\entity\User$UserBuilder.class

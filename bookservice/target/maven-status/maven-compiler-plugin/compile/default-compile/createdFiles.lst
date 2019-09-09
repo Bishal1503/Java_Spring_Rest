@@ -1,0 +1,5 @@
+com\JPoP2\repository\BookRepository.class
+com\JPoP2\config\SwaggerConfig.class
+com\JPoP2\error\BookNotFoundException.class
+com\JPoP2\model\Book.class
+com\JPoP2\controller\BookRestController.class

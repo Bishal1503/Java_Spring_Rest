@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: com.JPoP2.controller.LibraryRestControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.365 s <<< FAILURE! - in com.JPoP2.controller.LibraryRestControllerTest
-initializationError(com.JPoP2.controller.LibraryRestControllerTest)  Time elapsed: 0.005 s  <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.382 s <<< FAILURE! - in com.JPoP2.controller.LibraryRestControllerTest
+initializationError(com.JPoP2.controller.LibraryRestControllerTest)  Time elapsed: 0.004 s  <<< ERROR!
 java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
 

@@ -1,0 +1,7 @@
+com\JPoP2\LibraryService\error\LibraryNotFoundException.class
+com\JPoP2\LibraryService\model\Library.class
+com\JPoP2\LibraryService\config\LibraryConfig.class
+com\JPoP2\LibraryService\service\LibraryService.class
+com\JPoP2\LibraryService\repository\LibraryRepository.class
+com\JPoP2\LibraryService\controller\LibraryRestController.class
+com\JPoP2\LibraryService\LibraryServiceApplication.class

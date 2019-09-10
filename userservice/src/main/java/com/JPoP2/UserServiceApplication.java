@@ -1,4 +1,4 @@
-package com.JPoP2.MicroServicesSwagger;
+package com.JPoP2;
 
 import com.JPoP2.MicroServicesSwagger.model.User;
 import com.JPoP2.MicroServicesSwagger.repository.UserRepository;
@@ -10,10 +10,10 @@ import org.springframework.boot.CommandLineRunner;
 import java.math.BigDecimal;
 
 @SpringBootApplication
-public class MicroServicesSwaggerApplication {
+public class UserServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MicroServicesSwaggerApplication.class, args);
+        SpringApplication.run(UserServiceApplication.class, args);
     }
 
 

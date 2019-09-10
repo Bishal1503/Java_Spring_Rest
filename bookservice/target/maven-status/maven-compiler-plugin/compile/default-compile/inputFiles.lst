@@ -1,5 +1,6 @@
-D:\Workspace\JPOP\Week 4\jpop\book-service\src\main\java\com\JPoP2\controller\BookRestController.java
-D:\Workspace\JPOP\Week 4\jpop\book-service\src\main\java\com\JPoP2\error\BookNotFoundException.java
-D:\Workspace\JPOP\Week 4\jpop\book-service\src\main\java\com\JPoP2\repository\BookRepository.java
-D:\Workspace\JPOP\Week 4\jpop\book-service\src\main\java\com\JPoP2\config\SwaggerConfig.java
-D:\Workspace\JPOP\Week 4\jpop\book-service\src\main\java\com\JPoP2\model\Book.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\error\BookNotFoundException.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\repository\BookRepository.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\config\SwaggerConfig.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\model\Book.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\BookServiceApplication.java
+D:\Workspace\JPOP\Week 4\github\Java_Spring_Rest\bookservice\src\main\java\com\JPoP2\controller\BookRestController.java

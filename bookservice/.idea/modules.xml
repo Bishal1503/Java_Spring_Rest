@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EurekaNamingServer/EurekaNamingServer.iml" filepath="$PROJECT_DIR$/../EurekaNamingServer/EurekaNamingServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../libraryservice/SpringBootCRUD.iml" filepath="$PROJECT_DIR$/../libraryservice/SpringBootCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-service.iml" filepath="$PROJECT_DIR$/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../userservice/user-service.iml" filepath="$PROJECT_DIR$/../userservice/user-service.iml" />
+    </modules>
+  </component>
+</project>

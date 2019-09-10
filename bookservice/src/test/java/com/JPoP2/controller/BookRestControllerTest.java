@@ -1,7 +1,7 @@
 package com.JPoP2.controller;
 
-import com.JPoP2.SpringBootCRUD.model.Book;
-import com.JPoP2.SpringBootCRUD.repository.BookRepository;
+import com.JPoP2.model.Book;
+import com.JPoP2.repository.BookRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Before;
@@ -44,7 +44,7 @@ public class BookRestControllerTest {
     @Before
     public void init() {
         Book book = new Book(1L, "The Forest of Enchantments", "Chitra Banerjee Divakaruni", new BigDecimal("353.50"));
-        when(mockBookRepository.findById(1l)).thenReturn(Optional.of(book));
+        when(mockBookRepository.findById(1L)).thenReturn(Optional.of(book));
     }
 
     @Test

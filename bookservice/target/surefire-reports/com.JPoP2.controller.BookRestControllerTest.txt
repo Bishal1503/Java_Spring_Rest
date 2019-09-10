@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: com.JPoP2.controller.BookRestControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 12.567 s <<< FAILURE! - in com.JPoP2.controller.BookRestControllerTest
+update_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+find_All_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+patch_Author_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+delete_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+patch_Price_405(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+find_Id_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+find_IdNotFound_404(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+
+save_OK(com.JPoP2.controller.BookRestControllerTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration$LiquibaseConfiguration': Invocation of init method failed; nested exception is java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+Caused by: java.lang.IllegalStateException: Cannot find changelog location: class path resource [db/changelog/db.changelog-master.xml] (please add changelog or check your Liquibase configuration)
+

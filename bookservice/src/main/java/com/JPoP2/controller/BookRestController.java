@@ -3,6 +3,7 @@ package com.JPoP2.controller;
 import com.JPoP2.error.BookNotFoundException;
 import com.JPoP2.model.Book;
 import com.JPoP2.repository.BookRepository;
+import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -10,6 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@RequestMapping("/api/")
+@Api(value = "Book Service")
 public class BookRestController {
 
     @Autowired

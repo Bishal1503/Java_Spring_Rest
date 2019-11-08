@@ -2,5 +2,7 @@ com\JPoP2\repository\BookRepository.class
 com\JPoP2\BookServiceApplication.class
 com\JPoP2\config\SwaggerConfig.class
 com\JPoP2\error\BookNotFoundException.class
-com\JPoP2\model\Book.class
+com\JPoP2\service\BookService.class
+com\JPoP2\entity\Book.class
 com\JPoP2\controller\BookRestController.class
+com\JPoP2\service\impl\BookServiceImpl.class

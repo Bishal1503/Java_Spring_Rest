@@ -25,7 +25,7 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiEndPointsInfo() {
-        return new ApiInfoBuilder().title("Book Service REST API").description("REST API documentation")
+        return new ApiInfoBuilder().title("Book Service REST API").description("Rest APIs for Book operations")
                 .version("1.0.0").build();
     }
 }

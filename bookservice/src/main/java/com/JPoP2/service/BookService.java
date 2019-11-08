@@ -1,5 +1,7 @@
 package com.JPoP2.service;
 
+import com.JPoP2.entity.Book;
+
 import java.util.List;
 
 public interface BookService {
